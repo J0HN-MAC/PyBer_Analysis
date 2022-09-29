@@ -10,7 +10,7 @@ Below is the summary table of the ride-sharing data by city type (urban, suburba
 
 ![this is an image](analysis/type_summary_table.png)
 
-From this table, we can see there is a positive correlation between total rides, total drivers, total fares, and population density. But average fare per ride and average fare per driver are inversely correlated to population density. 
+From this table, we can see there is a positive correlation between total rides, total drivers, total fares, and population density. But the average fare per ride and average fare per driver are inversely correlated to population density. 
 
 The following line chart displays the differences in weekly fare totals by city type.
 
